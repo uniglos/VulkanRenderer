@@ -25,7 +25,7 @@ group "Dependencies"
 	include "Engine/vendor/imgui"
 group ""
 
-group "VulkanTest"
+group "VulkanRenderer"
 	include "Engine"
 	include "App"
 group ""
